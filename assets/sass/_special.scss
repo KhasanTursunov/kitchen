@@ -1,0 +1,44 @@
+.special{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.special_title{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.special_title h2{
+font-size: 32px;
+font-weight: 600;
+line-height: 39.01px;
+color: $zero;
+text-align: center;
+}
+
+.special_btn{
+    width: 312px;
+height: 48px;
+border-radius: 8px;
+background-color: $b;
+font-size: 18px;
+font-weight: 500;
+line-height: 21.94px;
+color: $f;
+border: none;
+}
+
+.special_divs{
+    display: flex;
+    justify-content: space-between;
+}
+
+.special_items{
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+}
+
+.div_for_btn{
+    display: flex;
+    justify-content: center;
+}
