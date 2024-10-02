@@ -1,0 +1,21 @@
+DOM => Document Object Module
+
+BU degani... Biz dokument funksiyasi yordamida, HTML dagi taglarga murojaat qila olamiz
+ va ularni Javascriptda ishlata olamiz
+
+Biz DOMni daraxtga oxshatamiz, chunki uning ildizi dokument bolsa,
+ mayda shoxchalari esa uni moduli va objectlkari boladi
+
+ Videodan tushunganlarim...
+
+ 1)
+ DOM faqatgina browserda ishlaydi, Terminalda ishlamaydi
+
+ 2)
+ Dom dagi selectorlar HTML dagi barcha taglarni olishimizga imkon beradi
+ 
+ 3)
+ getElementById => bu HTML dagi elementlarni idsi orqali oladi
+
+ 4)
+ getElementByClass => 
