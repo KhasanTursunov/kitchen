@@ -1,0 +1,98 @@
+.header{
+    background-color: #fff;
+}
+
+.navbar1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navbar_logo{
+    display: flex;
+    align-items: center;
+}
+.navbar_items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.navbar_inside1{
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+    text-align: right;
+}
+
+.navbar_inside11{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.navbar_inside1 a,
+.navbar_inside11 a{
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+color: $zero;
+}
+
+.navbar2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.links{
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+.links li a{
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: $zero;
+}
+
+.navbar2{
+    margin-top: 24px;
+}
+
+.navbar2_items{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.navbar_btn1{
+    width: 196px;
+height: 42px;
+gap: 16px;
+border-radius: 8px;
+border: 1px;
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+color: $zero;
+border: 1px solid #878B9080
+}
+
+.navbar_btn2{
+    width: 324px;
+height: 42px;
+gap: 16px;
+border-radius: 8px;
+border: 1px;
+border: 1px solid #878B9080;
+font-size: 14px;
+font-weight: 500;
+line-height: 21px;
+color: $zero;
+
+}
